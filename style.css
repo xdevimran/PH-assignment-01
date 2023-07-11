@@ -21,7 +21,7 @@ a {
   text-decoration: none;
 }
 .container {
-  max-width: 120rem;
+  max-width: 140rem;
   margin: 0 auto;
 }
 
@@ -88,13 +88,10 @@ nav {
 .main-navigation span {
   color: #e55473;
 }
-.main-navigation a:hover {
+.main-navigation ul a:hover {
   background: #e55473;
   color: #fff;
   border-radius: 1rem;
-}
-#logo:hover {
-  background: #e554734f;
 }
 .active {
   background: #e55473;
