@@ -249,6 +249,8 @@ nav {
   /* width: 120rem; */
   background-image: url(img/Rectangle\ 9.png);
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   padding: 3.5rem;
   color: #ffffff;
 }
