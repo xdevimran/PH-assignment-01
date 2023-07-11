@@ -21,13 +21,13 @@ a {
   text-decoration: none;
 }
 .container {
-  max-width: 140rem;
+  max-width: 120rem;
   margin: 0 auto;
 }
 
 .primary-text-box {
   text-align: center;
-  margin-top: 10rem;
+  margin-top: 12rem;
   margin-bottom: 5rem;
 }
 .primary-text-box h2 {
@@ -111,7 +111,7 @@ nav {
 
 .hero-title {
   color: #272727;
-  font-size: 8rem;
+  font-size: 7rem;
   font-style: normal;
   font-weight: 800;
   line-height: normal;
@@ -119,29 +119,29 @@ nav {
 
 .hero-description {
   color: rgba(39, 39, 39, 0.6);
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   font-style: normal;
   font-weight: 400;
-  line-height: 3rem;
-  padding: 3.2rem 0;
+  line-height: 2.5rem;
+  padding: 2.5rem 0;
 }
 
 /* featured section */
 
 .featured-section {
-  padding-bottom: 5rem;
+  padding-bottom: 3.5rem;
 }
 
 .featured-gallery {
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 2.4rem;
+  gap: 2rem;
 }
 
 .featured-gallery img {
-  width: 45rem;
-  height: 47rem;
+  width: 38rem;
+  height: 42rem;
   padding: 5rem 5rem 0rem 5rem;
 }
 .fgallery-img {
@@ -167,21 +167,21 @@ nav {
   color: #272727;
   text-align: center;
   font-family: Lato;
-  font-size: 2.4rem;
+  font-size: 2rem;
   font-style: normal;
   font-weight: 700;
-  line-height: 3.5rem;
+  line-height: 3rem;
   text-decoration-line: underline;
   cursor: pointer;
 }
 
 /* support section  */
 .support-section {
-  border-radius: 8px;
+  border-radius: 0.7rem;
   background: rgba(39, 39, 39, 0.05);
-  padding: 8rem;
-  margin-top: 6rem;
-  margin-bottom: 7rem;
+  padding: 8rem 10rem;
+  margin-top: 12rem;
+  margin-bottom: 12rem;
 }
 
 .support-content {
@@ -199,16 +199,16 @@ nav {
 .support-item h3 {
   color: rgba(39, 39, 39, 0.8);
   text-align: center;
-  font-size: 2.4rem;
+  font-size: 2rem;
   font-style: normal;
   font-weight: 600;
-  line-height: 3.5rem;
+  line-height: 3rem;
   margin-top: 2rem;
 }
 
 /* call to action section  */
 .calltoaction-section {
-  border-radius: 8px;
+  border-radius: 0.5rem;
   background: rgba(229, 84, 115, 0.05);
 }
 
@@ -219,7 +219,7 @@ nav {
 }
 
 .cta-image {
-  padding: 10rem;
+  padding: 5rem;
 }
 
 .primary-btn {
@@ -232,7 +232,7 @@ nav {
 
 /* instagram section  */
 .cta-section {
-  margin-bottom: 5rem;
+  margin-bottom: 12rem;
 }
 .instagram-pictures {
   display: flex;
@@ -240,12 +240,16 @@ nav {
   justify-content: space-around;
 }
 
+.instagram-pictures img {
+  width: 28rem;
+}
 /* subscribe section  */
 
 .sub-section {
+  /* width: 120rem; */
   background-image: url(img/Rectangle\ 9.png);
   background-repeat: no-repeat;
-  padding: 5rem;
+  padding: 3.5rem;
   color: #ffffff;
 }
 
@@ -266,21 +270,21 @@ footer {
   background: #111010;
   color: #fff;
   text-align: center;
-  padding: 10rem 20rem;
+  padding: 6rem 12rem;
   margin-top: 12rem;
 }
 
 footer h1 {
   color: #ffffff;
-  font-size: 4.8rem;
+  font-size: 4rem;
   font-style: normal;
   font-weight: 800;
   line-height: normal;
-  margin-bottom: 2.4rem;
+  margin-bottom: 2rem;
 }
 footer h1 span {
   color: #e55473;
-  font-size: 4.8rem;
+  font-size: 4rem;
   font-style: normal;
   font-weight: 800;
   line-height: normal;
@@ -288,7 +292,7 @@ footer h1 span {
 
 footer p {
   color: rgba(255, 255, 255, 0.9);
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   font-style: normal;
   font-weight: 400;
   line-height: 3rem;
